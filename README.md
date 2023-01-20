@@ -69,7 +69,7 @@ If you want to help, message, or hang out with us, here is our [Discord server](
 
 - For a solder station, don’t cheap out on some soldering iron which doesn’t have any control, get something that you can change the temperature of. I would recommend the UY CHAN TS100 ($80) or the PINE64 Pinecil ($25) if you just need to do a bit of soldering. But if you want something better you can also get the HAKKO FX-888D ($105).
 
-Image
+![Untitled-1](https://user-images.githubusercontent.com/113631536/213819798-43f7a1fb-5fab-429f-93dd-fd84d8b536bf.png)
 
 - If you plan on removing switches or encoders, it is a good idea to invest in a desoldering pump or desoldering wick. The ENGINEER SS-02 ($30) is a good option for a desoldering pump, but for desoldering wick, it is important to purchase from a reputable company such as Chemtronics. Having these tools will make the process of removing switches or encoders easier and more efficient.
 
