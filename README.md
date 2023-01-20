@@ -491,6 +491,7 @@ Image
 - Sometimes, if there is an extra piece that goes over the main shell, you can cut out more plastic from the main body while still keeping the mouse looking polished. If you are not concerned about keeping the mouse looking stock, you can drill holes in the shell, but be cautious not to make too many and be mindful of their placement. To make the edges of your cuts look more polished and prevent accidental cuts, use sandpaper or a file to smooth out the edges. Keep in mind that every mouse is different, so this guide may not be as detailed as others. This is a general guide on how to remove weight from your mouse.
 
 **Weight reduction using a drill**
+
 *By [u/CalligrapherSlight81](https://reddit.com/u/calligrapherslight81)*
 - Few words about drilling: To start weight reduction process, you need a drill (smaller - better, more handy) and 1.5 - 4 mm bits (at your preference, smaller holes means less weight reduction, but it’s better for ergonomics). Start drilling holes in most safe places (example: mouse bottom, inner skeleton, spots that have no contact with your hand).
 - Bottom takes almost all of the side pressure, you should be careful with large holes in it, also do not chop stiffening ribs (see photo 2, 3).
