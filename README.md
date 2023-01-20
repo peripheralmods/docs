@@ -90,11 +90,11 @@ Image
 - In addition to the tools mentioned above, it is also important to consider the type of screwdriver you will need for your specific mouse. Razer mice often use 6-edge screws, also known as Torx screws, which require a 6mm 6-edged nozzle on the screwdriver to properly disassemble. Make sure to have the correct screwdriver on hand to avoid any issues when disassembling your mouse. If there are any other tools or information that you think might be useful, feel free to point them out.
 
 ### How to open up a mouse
-- "If you are unsure of how to open up your mouse, you can try searching online for specific instructions. If you cannot find any information, the following guide should work for most mice:
+- If you are unsure of how to open up your mouse, you can try searching online for specific instructions. If you cannot find any information, the following guide should work for most mice:
 - To open up your mouse, you will need:
 	- A screwdriver
 	- New mouse feet (optional, in case the old ones get damaged or you want to replace them)
-- First, remove the mouse feet. You can use a hair dryer or alcohol to soften the adhesive, but be careful not to deform the plastic. Next, unscrew the screws located under the mouse feet. Some mice may have additional screws located under a sticker. Carefully open the mouse to avoid pulling on any ribbon cables or wires connected to the top shell. If there are any ribbon cables or wires connected to the top shell, disconnect them before removing the top shell. Once the top shell is off, you can modify the mouse as desired."
+- First, remove the mouse feet. You can use a hair dryer or alcohol to soften the adhesive, but be careful not to deform the plastic. Next, unscrew the screws located under the mouse feet. Some mice may have additional screws located under a sticker. Carefully open the mouse to avoid pulling on any ribbon cables or wires connected to the top shell. If there are any ribbon cables or wires connected to the top shell, disconnect them before removing the top shell. Once the top shell is off, you can modify the mouse as desired.
 
 ---
 
