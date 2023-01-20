@@ -473,7 +473,7 @@ Image
 
 Image
 
-- *Make a hole in the center of the mouse support, ensuring that it provides minimal support while still leaving enough plastic to hold the screw securely in place.
+- *Make a hole in the center of the mouse support, ensuring that it provides minimal support while still leaving enough plastic to hold the screw securely in place.*
 - It's better to be safe than sorry, therefore it's advisable to remove less material rather than risk breaking the mouse by taking too much.
 - If available, use a guide tailored to your specific mouse model.
 - If desired, consider removing some parts of the mouse completely.
