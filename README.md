@@ -65,7 +65,7 @@ If you want to help, message, or hang out with us, here is our [Discord server](
 **Tools you might need**
 - To properly disassemble a mouse, it is important to have a toolkit that includes screwdrivers and other necessary tools. While the iFixit Pro Tech toolkit ($70) is a good option, any set of screwdrivers, and additional tools should be sufficient. Keep in mind that having the right tools will make the disassembly process easier and more efficient.
 
-![image30](https://user-images.githubusercontent.com/113631536/213818821-f0f89d89-f64f-4220-9d8a-6061d176e56b.png)
+![image30](https://user-images.githubusercontent.com/113631536/213820038-87e410c1-1004-4f6e-ad19-d203e12ccfc8.png)
 
 - For a solder station, don’t cheap out on some soldering iron which doesn’t have any control, get something that you can change the temperature of. I would recommend the UY CHAN TS100 ($80) or the PINE64 Pinecil ($25) if you just need to do a bit of soldering. But if you want something better you can also get the HAKKO FX-888D ($105).
 
@@ -73,19 +73,19 @@ If you want to help, message, or hang out with us, here is our [Discord server](
 
 - If you plan on removing switches or encoders, it is a good idea to invest in a desoldering pump or desoldering wick. The ENGINEER SS-02 ($30) is a good option for a desoldering pump, but for desoldering wick, it is important to purchase from a reputable company such as Chemtronics. Having these tools will make the process of removing switches or encoders easier and more efficient.
 
-Image
+![wick1](https://user-images.githubusercontent.com/113631536/213820648-1d4378dd-b018-4995-9361-5cb065073775.png)
 
 - To make soldering tasks easier, it can be helpful to have a tool that holds your PCBs in place. A generic "3rd hand" or mini PCB holder can be useful for this purpose. These tools allow you to keep your PCBs stable while you work, which can improve the accuracy and precision of your soldering job.
 
-Image
+![hands-1](https://user-images.githubusercontent.com/113631536/213820917-e9974158-54c6-4c63-bd26-d9c2b4dad1ef.png)
 
 - It is a good idea to keep some extra mouse feet on hand in case you damage the old ones or want to upgrade from the stock options. Some popular aftermarket options include Corepadz, Hotline Games, Hyperglides, and Tiger Arc / Tiger ICE. If you do not have extra mouse feet, a temporary solution for damaged ones is to apply heat to them and place them on a flat surface with a heavy object on top to help them return to their original shape. To improve the stickiness of the mouse feet, you can also try heating clay and applying it to the bottom of the glides.
 
-Image
+![image5](https://user-images.githubusercontent.com/113631536/213821053-74cb460a-56ed-454a-9ee6-84e845284e96.png)
 
 - Nylon plastic spudgers are a useful tool for removing mouse skates because they are non-scratch and non-stick. This makes them gentle on the mouse and helps prevent damage to the skates. Additionally, because they are non-stick, they can make it easier to remove the skates without them getting stuck or stuck to the spudger.
 
-Image
+![image28](https://user-images.githubusercontent.com/113631536/213821085-4db474ef-232e-434c-8135-2e8e0720dcfc.png)
 
 - In addition to the tools mentioned above, it is also important to consider the type of screwdriver you will need for your specific mouse. Razer mice often use 6-edge screws, also known as Torx screws, which require a 6mm 6-edged nozzle on the screwdriver to properly disassemble. Make sure to have the correct screwdriver on hand to avoid any issues when disassembling your mouse. If there are any other tools or information that you think might be useful, feel free to point them out.
 
