@@ -1,7 +1,5 @@
 # Documentation
 
-## Work in progress...
-
 *Written By*
 - *Embiate*
 - *EricMC*
@@ -97,6 +95,8 @@ Image
 	- A screwdriver
 	- New mouse feet (optional, in case the old ones get damaged or you want to replace them)
 - First, remove the mouse feet. You can use a hair dryer or alcohol to soften the adhesive, but be careful not to deform the plastic. Next, unscrew the screws located under the mouse feet. Some mice may have additional screws located under a sticker. Carefully open the mouse to avoid pulling on any ribbon cables or wires connected to the top shell. If there are any ribbon cables or wires connected to the top shell, disconnect them before removing the top shell. Once the top shell is off, you can modify the mouse as desired."
+
+---
 
 ## Main Buttons
 
