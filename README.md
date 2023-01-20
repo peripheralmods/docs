@@ -246,6 +246,7 @@ Image
 	4. The closer you position the tape to the dot, the lower the LOD will become. However, if you place the tape too high, the sensor may not track your movement correctly. Therefore, it is important to position the tape as high as possible while still allowing for proper tracking.
 
 **Precautions**
+
 *By [u/McDinggle](https://reddit.com/u/mcdinggle)*
 - While the tape trick will help reduce LOD, it does come with its own drawbacks. By reducing the amount of light that reaches the sensor, you may also degrade the maximum tracking speed. Therefore it is important to understand the trade off of this trick. Experiment with how high you place the tape to find the right balance for you.
 - François Morier, a senior engineer at Logitech for 15 years “[The tape] is masking part of the light that comes from the LED. You are shortening the time when you lift that this LED will see a spot that is crossing the surface. If you put the tape… [the LED will reach that spot] much faster and provide the lift early. Then you have the feeling that, ‘Yay, I improved the lift!’ But in fact you improved the lift but degraded the maximum speed very often. Because having only half of the matrix or part of the matrix that is correctly illuminated will prevent you from having good high speed tracking. It will not that much affect the low speed but it will clearly kill the high speed on some surfaces. It’s a trade-off. If the guys are happy with that, maybe they’re not a very high speed player and can bear with this. But really it’s a trade-off.” ([Source](https://pcgamer.com/gaming-mouse-myths-busted)).
@@ -352,6 +353,7 @@ Image
 	- Lighter or hairdryer (to remove the old feet)
 
 **How to install the mouse cable**
+
 *By [u/stelios53](https://reddit.com/u/stelios53)*
 - Installing a new cable in your mouse is also a very easy modification to do. Removing the feet and undoing the screws is of course the first step followed by carefully prying the shell open. When you are able to see the main PCB you’ll have to find where the cable connects to it and then remove the JST connector (the cable might be beneath the PCB so you might have to take some more screws out). Next you’ll make the heat shrink-made stress relief. You’ll have to cut two pieces, one about 2 cm and a second one about 1cm. Pass them both over the JST connector and position them where the cable meets the shell (the smaller goes over the larger one).Keep them at the correct position and after taking the cable off the mouse, heat the heat shrink with the lighter moving it slowly across the heat shrink. At this point you can tilt the cable while heating to give an angle to your stress relief to not touch the mousepad as much. After you’ve made sure that the pinout on your new cable is matching the old one you can proceed to connect it. Last step before sealing it all up is testing if your mouse still works.
 
@@ -361,7 +363,7 @@ Image
 	- 550 Type III paracord
 	- An old mouse cable
 	- Heat shrink tubing
-	- An exacto knife
+	- An X-Acto knife
 	- Tweezers
 	- Lighter
 - Though creating a paracord cable from scratch is the best choice, the parts may not be available directly or you do not want to spend any money to upgrade your cable. That’s fine because you can convert your old stiff cable to a perfectly flexible paracord cable. Starting off you’ll have to carefully cut the outer shell of the cable with an X-Acto knife from the JST connector side all along the USB connector. This is quite the task and you can easily cut yourself if you’re not careful so take your time. When you’ve cut all the way to the USB connector you should cut the plastic casing from the side with a clean line if you’re planning on reusing the stock casing (if you are not, then just work on removing it) If you would rather not cut the stock plug casing, you can keep about an inch of rubber insulation coming out from the plug to heat shrink the paracord sleeve to. Adding a touch of glue where the paracord covers the rubber is a great way to keep it from pulling back off. After that you are left with four wires encased on the shielding, the shielding part will need to be removed since it adds stiffness and is not required. You can remove it by twisting it around the four cables and you can just cut it along the way as it’s quite annoying and lastly cut it on the USB connector end.
