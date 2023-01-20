@@ -43,8 +43,8 @@ If you want to help, message, or hang out with us, here is our [Discord server](
 	- [How to do a weight reduction](#how-to-do-a-weight-reduction)
 9. [Specific Guides](#specific-guides)
 10. Todo List
-	- PCB transfer (e.g. G203)
-	- Wireless mod (G305 transfer, can add more of them for specific mice)
+	- PCB transfer (e.g. Logitech G203)
+	- Wireless mod (Logitech G305 transfer, can add more of them for specific mice)
 	- Making a BBW (bare braided wire) from old cables
 	- Long leg side button replacement
 	- Making clicks less hollow with tape
