@@ -406,6 +406,9 @@ G305 Paddle contact “post”
 ### About encoders
 - Encoders come in various types and sizes. Some encoders are short and have a tactile feel, while others are tall and have a smooth feel. The choice of encoder largely depends on personal preference, with the exception of the height of the encoder, which is a crucial factor. It is important to ensure that when replacing an encoder, you get one of the same size as the original. To determine the size of your encoder, measure the distance from the base of the encoder (where the metal part sits on the PCB) to the middle of the encoder dot.
 - There are different types of encoders available, each with their own characteristics. For example, smooth encoders such as the Kailh Red encoder, and tactile encoders like the Alps Japanese encoder. Tactile encoders provide a distinct feeling between steps, but may be heavier than smooth encoders. The choice of encoder ultimately comes down to personal preference and practicality.
+![image19](https://user-images.githubusercontent.com/113631536/219965633-f8df668e-28e5-4050-a15d-942c66586505.png)
+Measuring of a mechanical mouse encoder (Image courtecy of Mouse Club LLC)
+
 
 ### Lubing the mouse encoder / making it less tactile
 
@@ -438,6 +441,9 @@ G305 Paddle contact “post”
 
 **Things to know before doing the mod**
 - It is worth noting that some mice use a different type of switch for the scroll wheel and may require a different approach for this modification. For example, the Logitech G502 uses a low profile surface-mounted switch in place of a standard micro switch beside the scroll wheel. These switches can fail and result in the loss of the middle mouse click. If you are unsure of the type of switch your mouse uses, it's best to consult the manufacturer's website or seek professional help.
+![ffdsfsdf](https://user-images.githubusercontent.com/113631536/219965924-6b2c4e44-c893-410a-b70d-76df5b050b2e.png)
+
+A conventional middle click switch (left) and a low profile middle click switch (right)
 
 **How to do it**
 - To decrease the pre-travel on a middle click, the following steps should be taken:
@@ -475,19 +481,19 @@ G305 Paddle contact “post”
 	- Carefully consider which parts are essential and which can be removed.
 	- When cutting around important parts of the shell, such as screw mounting points or the ring around the sensor, leave some plastic connected to them for support from the entire shell.
 
-Image
+![image1](https://user-images.githubusercontent.com/113631536/219966158-058e9727-388e-4aad-841f-0eb21d65b85d.jpg)
 
 - *Make a hole in the center of the mouse support, ensuring that it provides minimal support while still leaving enough plastic to hold the screw securely in place.*
 - It's better to be safe than sorry, therefore it's advisable to remove less material rather than risk breaking the mouse by taking too much.
 - If available, use a guide tailored to your specific mouse model.
 - If desired, consider removing some parts of the mouse completely.
 
-Image
+![image24](https://user-images.githubusercontent.com/113631536/219966257-43f9b889-a048-4491-8641-fcaeadec556f.jpg)
 
 - *Removed the diffuser from the mouse as I am comfortable with less diffused lighting.*
 - When modifying your mouse, it's important to keep in mind that each mouse is unique and each person has their own preferences for how much weight they want to remove. Consider removing buttons, switches, or even parts of the shell. You can also cut out some supports on the shell, just be sure they are not essential for the mouse's functioning.
 
-Image
+![image20](https://user-images.githubusercontent.com/113631536/219966306-0e904ec4-768b-4faf-9432-643be355179a.jpg)
 
 - *Removing some supports from the shell.*
 - Sometimes, if there is an extra piece that goes over the main shell, you can cut out more plastic from the main body while still keeping the mouse looking polished. If you are not concerned about keeping the mouse looking stock, you can drill holes in the shell, but be cautious not to make too many and be mindful of their placement. To make the edges of your cuts look more polished and prevent accidental cuts, use sandpaper or a file to smooth out the edges. Keep in mind that every mouse is different, so this guide may not be as detailed as others. This is a general guide on how to remove weight from your mouse.
@@ -502,27 +508,27 @@ Image
 - After drilling, use small round files / round mill bits, then sandpaper (500 - 1000 grid) to make it look and feel smooth. Pay attention to every single hole.
 - Good luck in weight reduction, you can find a lot of interesting projects on my [Reddit](https://reddit.com/user/CalligrapherSlight81)!
 
-Image
+![image32](https://user-images.githubusercontent.com/113631536/219966335-ac4f4fbf-f880-46b2-8483-bdc2cda7bfc8.png)
 
 - *Weight reduction on the sides (60° staggered)*
 
-Image
+![fdfsfd](https://user-images.githubusercontent.com/113631536/219966432-a8108884-78af-4333-b328-37da52a24cc9.png)
 
 - *Bottom weight reduction*
 
-Image
+![fdsfsd](https://user-images.githubusercontent.com/113631536/219966570-53e3ae4c-4ab6-4962-8119-55d229b8ba95.png)
 
 - *Blind holes*
 
-Image
+![image18](https://user-images.githubusercontent.com/113631536/219966607-4b1107f7-26ce-4800-816e-d23ec36e6651.jpg)
 
 - *Mouse before closing it up (changed original cable that connects the side buttons to the main board because it broke)*
 
-Image
+![image4](https://user-images.githubusercontent.com/113631536/219966625-8c964ecd-60a0-487a-b62f-6290bd91f14c.jpg)
 
 - *Weight of Microsoft Pro IntelliMouse after weight reduction*
 
-Image
+![image10](https://user-images.githubusercontent.com/113631536/219966642-107442d7-ace9-4300-bae8-772e13b8fbf2.jpg)
 
 *Went for a stock look so that there wouldn't be any holes / cuts showing*
 
