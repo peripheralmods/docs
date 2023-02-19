@@ -85,7 +85,7 @@ If you want to help, message, or hang out with us, here is our [Discord server](
 
 - Nylon plastic spudgers are a useful tool for removing mouse skates because they are non-scratch and non-stick. This makes them gentle on the mouse and helps prevent damage to the skates. Additionally, because they are non-stick, they can make it easier to remove the skates without them getting stuck or stuck to the spudger.
 
-![image28](https://user-images.githubusercontent.com/113631536/213821085-4db474ef-232e-434c-8135-2e8e0720dcfc.png)
+![image28](https://user-images.githubusercontent.com/113631536/219966830-7108296d-d7fc-4e23-a0b3-32408bf73971.png)
 
 - In addition to the tools mentioned above, it is also important to consider the type of screwdriver you will need for your specific mouse. Razer mice often use 6-edge screws, also known as Torx screws, which require a 6mm 6-edged nozzle on the screwdriver to properly disassemble. Make sure to have the correct screwdriver on hand to avoid any issues when disassembling your mouse. If there are any other tools or information that you think might be useful, feel free to point them out.
 
