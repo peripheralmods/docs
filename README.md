@@ -223,6 +223,8 @@ If you want to help, message, or hang out with us, here is our [Discord server](
 	3. Reassemble the main buttons and test for button lifting. If the lifting persists, add more tape until the main buttons do not travel up anymore.
 	4. Be careful not to add too much tape, as this can cause the main buttons to sit too low and feel or look strange.
 	5. Once you are satisfied with the lack of button lifting, the modification is complete.
+![image14](https://user-images.githubusercontent.com/113631536/219965382-12d9b3a3-620d-47ac-afe8-173dd2c1139c.jpg)
+G305 Paddle contact “post”
 
 ---
 
